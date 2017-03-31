@@ -12,3 +12,4 @@
 10. Linux
 11. Git
 12. Maven
+13. Scalability
